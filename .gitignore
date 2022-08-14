@@ -4,3 +4,9 @@
 
 # Exclude tex files from ignore list thus include it again
 ! *.tex
+
+# Exclude pdf files from ignore list thus include it again
+! *.pdf
+
+# Exclude makefile from ignore list thus include it again
+! makefile
